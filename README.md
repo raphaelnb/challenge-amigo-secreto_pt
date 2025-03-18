@@ -14,6 +14,13 @@ Este é um simples projeto de Amigo Secreto, onde você pode adicionar o nome de
 - **CSS**: Para o design da página e melhorar a experiência visual.
 - **JavaScript**: Para adicionar funcionalidades interativas, como adicionar amigos e realizar o sorteio.
 
+
+## Deploy
+
+Você pode acessar a versão online do projeto através do link abaixo:
+
+[Amigo Secreto](https://raphaelnb.github.io/challenge-amigo-secreto_pt/)
+
 ## Como Usar
 
 1. Abra o arquivo `index.html` no seu navegador.
@@ -27,8 +34,3 @@ Este é um simples projeto de Amigo Secreto, onde você pode adicionar o nome de
 - `style.css`: Arquivo de estilo para a página.
 - `app.js`: Arquivo JavaScript responsável pela lógica da aplicação.
 - `assets/`: Pasta que contém imagens usadas no projeto.
-
-
-## Licença
-
-Este projeto é de código aberto, licenciado sob a [MIT License](LICENSE).
