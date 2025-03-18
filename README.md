@@ -5,13 +5,13 @@ Este é um simples projeto de Amigo Secreto, onde você pode adicionar o nome de
 ## Funcionalidades
 
 - **Adicionar Amigos**: O usuário pode adicionar os nomes de seus amigos em um campo de input.
-- **Exibir a Lista de Amigos**: A lista de amigos é exibida dinamicamente em uma lista não ordenada (`<ul>`).
-- **Sortear Amigo Secreto**: Após adicionar os amigos, o usuário pode sortear os amigos secretos.
+- **Exibir a Lista de Amigos**: A lista de amigos é exibida dinamicamente.
+- **Sortear Amigo Secreto**: Após adicionar os amigos, o usuário pode sortear-los.
 
 ## Tecnologias Utilizadas
 
 - **HTML**: Para estruturar a página e conteúdo.
-- **CSS**: Para o design da página e melhorar a experiência visual.
+- **CSS**: Para o design da página.
 - **JavaScript**: Para adicionar funcionalidades interativas, como adicionar amigos e realizar o sorteio.
 
 
